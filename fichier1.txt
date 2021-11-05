@@ -1,3 +1,0 @@
-Exercice demo-git
-Formation sécurité applicative
-Outil de gestion de projet =>git 
